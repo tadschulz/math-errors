@@ -3,4 +3,4 @@ matrix:
     - language: python
       python: 3.6
       script:
-	- python math_errors.py
+        - python math_errors.py
